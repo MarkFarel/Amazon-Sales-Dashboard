@@ -10,10 +10,7 @@
 <img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/13029a55-fb34-4682-86d8-91741943e90f" />
 
 
-### Data<img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/f545b43e-2ec5-42ee-8bb2-629a5b717a93" />
-<img width="607" alt="amazon sales details" src="https://github.com/user-attachments/assets/16b45687-a96a-4fe6-89a6-5eabc0bbe485" />
-![Uploading amazon sales details.PNG…]()
- Sources
+### Data Sources
 1. Sales Transactions Dataset:
 - Source: Amazon Sales Data available from kaggle.com
 ### Tools

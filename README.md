@@ -4,8 +4,16 @@
 ---
 ###  Project Overview
  **The Amazon Sales Dashboard** is a Power BI project created to analyze Amazon sales data. It offers a high-level overview of sales performance, customer preferences, product categories, and other key insights. The dashboard aims to support data-driven decision-making in product management, marketing strategies, and customer engagement.
-<img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/7f683dde-df16-439c-8256-70ce30a079de">
-### Data Sources
+
+<img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/12c82150-68f9-4687-b33b-e5be9b304928" />
+
+<img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/13029a55-fb34-4682-86d8-91741943e90f" />
+
+
+### Data<img width="602" alt="amazon sales page 1" src="https://github.com/user-attachments/assets/f545b43e-2ec5-42ee-8bb2-629a5b717a93" />
+<img width="607" alt="amazon sales details" src="https://github.com/user-attachments/assets/16b45687-a96a-4fe6-89a6-5eabc0bbe485" />
+![Uploading amazon sales details.PNG…]()
+ Sources
 1. Sales Transactions Dataset:
 - Source: Amazon Sales Data available from kaggle.com
 ### Tools
